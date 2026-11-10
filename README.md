@@ -13,7 +13,7 @@ Official [Claude Code](https://code.claude.com) plugin marketplace from [Keytour
 In Claude Code, add this marketplace and install the plugin:
 
 ```
-/plugin marketplace add keytours/claude-plugins
+/plugin marketplace add KeytoursVacations/KeytoursChatPlugin
 /plugin install keytours@keytours
 ```
 
