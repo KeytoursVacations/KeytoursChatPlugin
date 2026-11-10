@@ -1,0 +1,18 @@
+{
+  "name": "keytours",
+  "owner": {
+    "name": "Keytours Vacations",
+    "email": "info@keytours.com"
+  },
+  "metadata": {
+    "description": "Official Claude plugins from Keytours Vacations."
+  },
+  "plugins": [
+    {
+      "name": "keytours",
+      "source": "./plugins/keytours",
+      "description": "Keytours – Luxury Travel & Vacations. Your personal luxury travel planner: hotels, tours, activities, flights, trains, transfers, cruises and car rentals, saved as a trip plan in your Keytours account. Powered by KeyBrain.",
+      "category": "travel"
+    }
+  ]
+}

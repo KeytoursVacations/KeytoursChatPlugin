@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "keytours": {
+      "type": "http",
+      "url": "https://mcp.keytours.com/claude",
+      "oauth": {
+        "clientId": "84fba853-6fc6-4cd2-98c7-61d891fba852-spa",
+        "callbackPort": 33418
+      }
+    }
+  }
+}

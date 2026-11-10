@@ -1,0 +1,24 @@
+{
+  "name": "keytours",
+  "displayName": "Keytours",
+  "version": "0.1.0",
+  "description": "Discover, personalize and plan extraordinary journeys worldwide with Keytours Vacations. Explore luxury hotels, private tours, activities, flights, trains, transfers, cruises and multi-destination vacations with live availability and prices, all in one conversation, and save your trip plan to your Keytours account to complete payment and confirmation in KeyPal. Powered by KeyBrain.",
+  "author": {
+    "name": "Keytours Vacations",
+    "email": "info@keytours.com",
+    "url": "https://www.keytours.com/"
+  },
+  "homepage": "https://www.keytours.com/",
+  "license": "SEE LICENSE IN LICENSE",
+  "icon": "./assets/keytours-vacations-logo.png",
+  "supportUrl": "https://www.keytours.com/sp/contact-us",
+  "privacyPolicyUrl": "https://www.keytours.com/sp/privacy-policy",
+  "termsOfServiceUrl": "https://www.keytours.com/sp/terms-conditions",
+  "keywords": [
+    "Keytours",
+    "Keytours Vacations",
+    "luxury travel",
+    "trip planning",
+    "travel"
+  ]
+}
