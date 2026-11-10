@@ -9,8 +9,10 @@
     "url": "https://www.keytours.com/"
   },
   "homepage": "https://www.keytours.com/",
+  "repository": "https://github.com/KeytoursVacations/KeytoursChatPlugin",
   "license": "SEE LICENSE IN LICENSE",
   "icon": "./assets/keytours-vacations-logo.png",
+  "documentationUrl": "https://www.keytours.com/sp/keytours-connector-for-claude",
   "supportUrl": "https://www.keytours.com/sp/contact-us",
   "privacyPolicyUrl": "https://www.keytours.com/sp/privacy-policy",
   "termsOfServiceUrl": "https://www.keytours.com/sp/terms-conditions",
